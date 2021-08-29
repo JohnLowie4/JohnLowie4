@@ -41,22 +41,3 @@
 </p>
 <br>
 <br>
-
-
-<!-- - 💬 Ask me about what coding bootcamp and computer science are like!
-- 💼 I'm currently open for work as a full stack developer and software developer
-    - [Résumé](https://resume.creddle.io/resume/89sepdxunfs)
-- 🔭 I’m currently working on [APH Networks front-end clone](https://github.com/JohnLowie4/aphnetworks-front-end-clone) using React.
-<br>
-
-- 📫 How to reach me: 
-    - jzlowie@gmail.com -->
-
-<!-- - 🌱 I’m currently learning ...
-- ⚡ Fun fact: I love photography📸, video games🎮, and playing the guitar🎸
-- 📖 My blog: [Jzlowie - Medium](https://jzlowie.medium.com)
-    - 📚 Publisher: [Geek Culture](https://medium.com/geekculture)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ... -->
-
