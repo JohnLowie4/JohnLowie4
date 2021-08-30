@@ -43,6 +43,11 @@
     <a href="https://www.cypress.io"><img alt="cypress" src="https://img.shields.io/badge/cypress%20-%232e2e2e.svg?&style=for-the-badge&logo=cypress&logoColor=white" /></a>
 </p>
 <p align="center">
+    <a href="https://rspec.info"><img alt="rspec" src="https://img.shields.io/badge/rspec%20-%23f0ede4.svg?&style=for-the-badge&logo=rspec&logoColor=red" /></a>
+    <a href="https://git-scm.com"><img alt="capybara" src="https://img.shields.io/badge/capybara%20-%2341135e.svg?&style=for-the-badge&logo=capybara&logoColor=white" /></a>
+    <a href="https://phantomjs.org"><img alt="phantomjs" src="https://img.shields.io/badge/phantomjs%20-%232cd1f2.svg?&style=for-the-badge&logo=phantomjs&logoColor=black" /></a>
+</p>
+<p align="center">
     <a href="https://jquery.com"><img alt="jquery" src="https://img.shields.io/badge/jquery%20-%23fafafa.svg?&style=for-the-badge&logo=jquery&logoColor=%23316192" /></a>
     <a href="https://www.json.org/json-en.html"><img alt="json" src="https://img.shields.io/badge/json%20-%23faf8dc.svg?&style=for-the-badge&logo=json&logoColor=black" /></a>
     <a href="https://git-scm.com"><img alt="git" src="https://img.shields.io/badge/git%20-%23ff5d17.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>
