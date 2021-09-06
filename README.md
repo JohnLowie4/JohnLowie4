@@ -2,7 +2,8 @@
 
 <div align="center">
     <p>💼 I'm currently working at Cap Corp Calgary as a Full Stack Developer. Here is my <a href="https://resume.creddle.io/resume/89sepdxunfs">résumé.</a></p>
-    <p>🔭 I’m currently working on <a href="https://github.com/JohnLowie4/aphnetworks-front-end-clone">APH Networks front-end clone</a> using React.</p>
+<!--     <p>🔭 I’m currently working on <a href="https://github.com/JohnLowie4/aphnetworks-front-end-clone">APH Networks front-end clone</a> using React.</p> -->
+    <p>🔭 I’m currently learning the Vue framework.</p>
 </div>
 
 <h3 align="center">Connect With Me</h3>
