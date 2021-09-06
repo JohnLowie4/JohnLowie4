@@ -31,6 +31,7 @@
 <p align="center">
     <a href="https://reactjs.org"><img alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
     <a href="https://reactnative.dev"><img alt="react native" src="https://img.shields.io/badge/react%20native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
+    <a href="https://vuejs.org/"><img alt="vue" src="https://img.shields.io/badge/vue%20-%23ffffff.svg?&style=for-the-badge&logo=vue.js&logoColor=%234ab567" /></a>
     <a href="https://getbootstrap.com"><img alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%238925fa.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
     <a href="https://rubyonrails.org"><img alt="rails" src="https://img.shields.io/badge/rails%20-%23fafafa.svg?&style=for-the-badge&logo=rubyonrails&logoColor=red" /></a>
     <a href="https://nodejs.org/en/"><img alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></a>
