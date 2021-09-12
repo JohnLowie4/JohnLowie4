@@ -1,9 +1,10 @@
 <h2 align="center">Hi there👋 My name is John and I'm a Full Stack Developer</h2>
 
 <div align="center">
+    <p>👨🏻‍💻 I am a full stack developer who loves learning how people interact with frontend designs.</p>
     <p>💼 I'm currently working at Cap Corp Calgary as a Full Stack Developer. Here is my <a href="https://resume.creddle.io/resume/89sepdxunfs">résumé.</a></p>
 <!--     <p>🔭 I’m currently working on <a href="https://github.com/JohnLowie4/aphnetworks-front-end-clone">APH Networks front-end clone</a> using React.</p> -->
-    <p>🔭 I’m currently learning the Vue framework.</p>
+    <p>🔭 I’m currently learning the Vue framework while applying UI/UX design principles.</p>
 </div>
 
 <h3 align="center">Connect With Me:</h3>
