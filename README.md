@@ -15,8 +15,9 @@
 </div>
 
 <div align="center">
-    <h3>Read My Articles:</h3>
+    <h3>What I'm Up To:</h3>
     <a href="https://jzlowie.medium.com"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
+    <a href="https://twitter.com/jz_lowie"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
 
 <br>
