@@ -2,11 +2,9 @@
 
 <div align="center">
     <p>👨🏻‍💻 I am a full stack developer who loves to bring creative designs to life.</p>
-    <p>💼 I'm currently working at <a href="https://www.polyfill.cc/">Polyfill Software</a> as a Software Developer. Here is my <a href="https://resume.creddle.io/resume/89sepdxunfs">résumé.</a></p>
-<!--     <p>💼 I'm currently looking for work as a Full Stack Developer. Here is my <a href="https://resume.creddle.io/resume/89sepdxunfs">résumé.</a></p> -->
+<!--    <p>💼 I'm currently working at <a href="https://www.polyfill.cc/">Polyfill Software</a> as a Software Developer. Here is my <a href="https://resume.creddle.io/resume/89sepdxunfs">résumé.</a></p> -->
+     <p>💼 I'm currently looking for work as a Full Stack Developer. Here is my <a href="https://resume.creddle.io/resume/89sepdxunfs">résumé.</a></p>
 <!--     <p>🔭 I’m currently working on <a href="https://github.com/JohnLowie4/netflix-social">Netflix X Spotify mashed up clone</a> using React.</p> -->
-    <p>🔭 I’m currently attending <a href="https://www.harvest.builders/">Harvest Builders'</a> Full Stack Development Program.</p>
-</div>
 
 <h3 align="center">Connect With Me:</h3>
 
