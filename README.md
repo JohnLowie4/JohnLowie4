@@ -42,6 +42,7 @@
     <a href="http://expressjs.com"><img alt="expressjs" src="https://img.shields.io/badge/express.js%20-%23ffffff.svg?&style=for-the-badge&logo=express&logoColor=black" /></a>
     <a href="https://git-scm.com"><img alt="git" src="https://img.shields.io/badge/git%20-%23ff5d17.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>
     <a href="https://www.npmjs.com"><img alt="npm" src="https://img.shields.io/badge/npm%20-%23ff0000.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a>
+    <a href="https://yarnpkg.com/"><img alt="yarn" src="https://img.shields.io/badge/yarn%20-%23117cad.svg?&style=for-the-badge&logo=yarn&logoColor=white" /></a>
 </p>
 <p align="center">
     <a href="https://storybook.js.org"><img alt="storybook" src="https://img.shields.io/badge/storybook%20-%23ffffff.svg?&style=for-the-badge&logo=storybook&logoColor=%23fc60b3" /></a>
