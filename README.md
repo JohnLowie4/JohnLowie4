@@ -2,7 +2,7 @@
 
 <div align="center">
     <p>👨🏻‍💻 I am a full stack developer who loves to bring creative designs to life.</p>
-   <p>💼 I'm currently working at <a href="https://www.autodesk.ca/en">Autodesk</a> as a Software Development Engineer II. Here is my <a href="https://resume.creddle.io/resume/89sepdxunfs">résumé.</a></p>
+   <p>💼 I'm currently working at <a href="https://www.autodesk.ca/en">Autodesk</a> as a Software Development Engineer. Here is my <a href="https://resume.creddle.io/resume/89sepdxunfs">résumé.</a></p>
      <!-- <p>💼 I'm currently looking for work as a Full Stack Developer. Here is my <a href="https://resume.creddle.io/resume/89sepdxunfs">résumé.</a></p> -->
 <!--     <p>🔭 I’m currently working on <a href="https://github.com/JohnLowie4/netflix-social">Netflix X Spotify mashed up clone</a> using React.</p> -->
 
