@@ -3,21 +3,19 @@
 <div align="center">
     <p>👨🏻‍💻 I am a full stack developer who loves to bring creative designs to life.</p>
    <p>💼 I'm currently working at <a href="https://www.autodesk.ca/en">Autodesk</a> as a Software Development Engineer. Here is my <a href="https://resume.creddle.io/resume/89sepdxunfs">résumé.</a></p>
-     <!-- <p>💼 I'm currently looking for work as a Full Stack Developer. Here is my <a href="https://resume.creddle.io/resume/89sepdxunfs">résumé.</a></p> -->
-<!--     <p>🔭 I’m currently working on <a href="https://github.com/JohnLowie4/netflix-social">Netflix X Spotify mashed up clone</a> using React.</p> -->
 
 <h3 align="center">Connect With Me:</h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/jzlowie"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:jzlowie@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/gmail-%23ffffff.svg?&style=for-the-badge&logo=gmail&logoColor=red"/></a>
-</div>
+<!--     <a href="mailto:jzlowie@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/gmail-%23ffffff.svg?&style=for-the-badge&logo=gmail&logoColor=red"/></a>
+</div> -->
 
 <div align="center">
-    <h3>What I'm Up To:</h3>
+    <h3>My blog:</h3>
     <a href="https://jzlowie.medium.com"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
-    <a href="https://twitter.com/jz_lowie"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</div>
+<!--     <a href="https://twitter.com/jz_lowie"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</div> -->
 
 <br>
 <br>
