@@ -2,17 +2,19 @@
 
 <div align="center">
     <p>👨🏻‍💻 I am a software developer who loves to bring creative designs to life.</p>
-    <br>
-    <p>I am currently working on all the challenges from <a href"https://www.greatfrontend.com" alt="GreatFrontEnd">GreatFrontEnd</a></p>
+    I am currently working on all the challenges from <a href"https://www.greatfrontend.com" alt="GreatFrontEnd">GreatFrontEnd</a>.
+</div>
 
 <h3 align="center">Connect With Me:</h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/jzlowie"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
 <div align="center">
     <h3>My blog:</h3>
     <a href="https://jzlowie.medium.com"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
+</div>
 
 <br>
 <br>
